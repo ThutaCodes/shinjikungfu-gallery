@@ -1,0 +1,13 @@
+body .first-background {
+    margin: 0;
+    height: 100vh;
+    background-image: url('sj bg.png'); 
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed; /* Fixed background */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff; /* Set text color to be visible on the background */
+    font-size: 24px;
+}
